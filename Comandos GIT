@@ -1,1 +1,4 @@
-git checkout -- . ==> Vuelve a dejar el codigo fuente mediante el ultimo commit!
+git checkout -- . ==> Vuelve a dejar el codigo fuente mediante el ultimo commit!.
+git status ==> Visualizar los archivos que aun no estan dentro del repositorio.
+git add . ==> Agrega todos los archivos para subir al repositorio.
+git commit -m "" ==> Agregar un mensaje para identificar cual fue el cambio que se realizo y en su defecto tener un respaldo del codigo fuente.
